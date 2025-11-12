@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "prakt7_Leshukov/1.0.0": {
+        "runtime": {
+          "prakt7_Leshukov.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prakt7_Leshukov/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
